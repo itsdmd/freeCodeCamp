@@ -1,0 +1,20 @@
+{
+  "name": "itsdmd-fcc-mdpreview",
+  "version": "1.0.0",
+  "description": "Submission for freeCodeCamp's Markdown Preview challenge (https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsdmd/freeCodeCamp/FrontEnd/MarkdownPreview"
+  },
+  "keywords": [
+    "fcc",
+    "markdown",
+    "challenge"
+  ],
+  "author": "itsdmd",
+  "license": "ISC"
+}
