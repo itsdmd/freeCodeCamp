@@ -16,5 +16,8 @@
     "challenge"
   ],
   "author": "itsdmd",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^11.1.1"
+  }
 }
